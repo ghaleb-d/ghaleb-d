@@ -8,11 +8,21 @@
 - 🧩 Researching **domain-aware indexing** and **post-quantum cryptography (PQC)** for verifiable cross-system data exchange  
 - 💹 Architecting a **low-latency Solana trading system** with gRPC services and bare-metal optimizations
 - 
-### 🛠️ Tech Stack
-**Languages:** Rust, TypeScript, JavaScript  
-**Frameworks:** Next.js, Node.js, Anchor (Solana), React  
-**Infrastructure:** AWS EC2, Docker, Nginx, PostgreSQL, MongoDB  
-**Tools:** Git, CI/CD, Kafka, gRPC, Cloudflare  
+### 🧰 Tech Stack
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-00897B?style=for-the-badge&logo=grpc&logoColor=white)
+![PQC](https://img.shields.io/badge/Post–Quantum%20Crypto-5E35B1?style=for-the-badge)
+
 
 ### 📘  Projects
 - 🔄 **Cross-System Interoperability Layer** – Rust-based data exchange framework for blockchain and ERP integration  
